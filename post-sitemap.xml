@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>www.mr.run/test.html</loc>
+        <lastmod>2017-10-22T04:48:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>www.mr.run/hello-world.html</loc>
         <lastmod>2017-09-05T07:15:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
